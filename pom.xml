@@ -7,6 +7,13 @@
     <groupId>com.first_chat_SBT</groupId>
     <artifactId>chat_bot379</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>com.first_chat_SBT</groupId>
+            <artifactId>chat_bot379</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
